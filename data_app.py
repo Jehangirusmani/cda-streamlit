@@ -5,7 +5,7 @@ Created on Sat Jan 28 15:45:37 2023
 @author: JEHANGIR
 """
 
-# on anaconda command prompt: streamlit run data_app.py i.e. the filw name
+# on anaconda command prompt: streamlit run data_app.py i.e. the file name
 
 import pandas as pd
 
